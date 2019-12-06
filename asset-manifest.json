@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-typescript-todo/static/css/main.639c113d.chunk.css",
+    "main.js": "/react-typescript-todo/static/js/main.8242d088.chunk.js",
+    "main.js.map": "/react-typescript-todo/static/js/main.8242d088.chunk.js.map",
+    "runtime-main.js": "/react-typescript-todo/static/js/runtime-main.705d3b4d.js",
+    "runtime-main.js.map": "/react-typescript-todo/static/js/runtime-main.705d3b4d.js.map",
+    "static/js/2.6971747e.chunk.js": "/react-typescript-todo/static/js/2.6971747e.chunk.js",
+    "static/js/2.6971747e.chunk.js.map": "/react-typescript-todo/static/js/2.6971747e.chunk.js.map",
+    "index.html": "/react-typescript-todo/index.html",
+    "precache-manifest.352922c39e4610242188c9ec98bf0f04.js": "/react-typescript-todo/precache-manifest.352922c39e4610242188c9ec98bf0f04.js",
+    "service-worker.js": "/react-typescript-todo/service-worker.js",
+    "static/css/main.639c113d.chunk.css.map": "/react-typescript-todo/static/css/main.639c113d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.705d3b4d.js",
+    "static/js/2.6971747e.chunk.js",
+    "static/css/main.639c113d.chunk.css",
+    "static/js/main.8242d088.chunk.js"
+  ]
+}
