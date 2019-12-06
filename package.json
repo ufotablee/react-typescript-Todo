@@ -2,7 +2,7 @@
   "name": "react-typescript",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mksninja.github.io/react-typescript-todo",
+  "homepage": "http://ufotablee.github.io/react-typescript-todo",
   "dependencies": {
     "@types/jest": "24.0.23",
     "@types/node": "12.12.14",
